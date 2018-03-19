@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1520949512 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\arbolvariables.cpp
+	"arbolVariables.h"
+
+1520949045 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\arbolvariables.h
+	"variable.h"
+
+1520782712 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\variable.h
+	"enumOpsBasicas.h"
+	"enumOpsArits.h"
+
+1520712431 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\fecha.h
+	"boolean.h"
+
+1520782024 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\boolean.h
+	<stdio.h>
+	<stdlib.h>
+
+1520712431 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\enumopsbasicas.h
+	"listaStrings.h"
+
+1520801481 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\listastrings.h
+	"String.h"
+
+1520859861 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\string.h
+	"boolean.h"
+
+1520712431 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\enumopsarits.h
+	"listaStrings.h"
+
+1520782752 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\archivos.cpp
+	<time.h>
+	"archivos.h"
+
+1520782752 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\archivos.h
+	"listaInstrucciones.h"
+
+1520712431 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\listainstrucciones.h
+	"instruccion.h"
+
+1520882797 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\instruccion.h
+	"AS3.h"
+	"AS4.h"
+	"AS5.h"
+	"AS6.h"
+
+1520712431 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\as3.h
+	"arbolVariables.h"
+
+1520712431 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\as4.h
+	"arbolVariables.h"
+
+1520712431 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\as5.h
+	"arbolVariables.h"
+
+1520712431 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\as6.h
+	"arbolVariables.h"
+
+1520712431 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\as3.cpp
+	"AS3.h"
+
+1520712431 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\as4.cpp
+	"AS4.h"
+
+1520712431 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\as5.cpp
+	"AS5.h"
+
+1520712431 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\as6.cpp
+	"AS6.h"
+
+1520712431 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\boolean.cpp
+	"boolean.h"
+
+1520972148 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\enumopsarits.cpp
+	"enumOpsArits.h"
+
+1520712431 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\enumopsbasicas.cpp
+	"enumOpsBasicas.h"
+
+1520712431 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\fecha.cpp
+	"fecha.h"
+
+1520712431 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\instruccion.cpp
+	"instruccion.h"
+
+1520971922 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\listastrings.cpp
+	"listaStrings.h"
+
+1520893732 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\main.cpp
+	"validaciones.h"
+
+1520889629 c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\validaciones.h
+	"archivos.h"
+
+1520972148 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\string.cpp
+	"String.h"
+
+1520972148 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\validaciones.cpp
+	"validaciones.h"
+
+1520953238 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\variable.cpp
+	"variable.h"
+
+1520815494 source:c:\users\joase\onedrive\taller 1\svn\calcusimple_pstcompiler\listainstrucciones.cpp
+	"listaInstrucciones.h"
+

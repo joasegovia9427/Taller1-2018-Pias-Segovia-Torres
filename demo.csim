@@ -1,0 +1,94 @@
+
+PROGRAM
+PROGRAMa
+PROGRAMA2
+PROGRAMA Demo
+PROGRAMA demo2
+PROGRAMA demo
+
+PROGRAMA demo
+
+VARIABLE
+VARIABLEs
+VARIABLES2
+VARIABLES varA
+VARIABLES var1
+VARIABLES var$
+VARIABLES vara x vara  x
+
+VARIABLES vara x num
+
+INSTRUCCIONE
+INSTRUCCIONEs
+INSTRUCCIONES2
+
+INSTRUCCIONES
+
+Leer
+LEE
+LEE2
+LEER 123
+LEER numz
+
+LEER num
+
+Mostrar
+MOSTRA
+MOSTRAR2
+MOSTRAR 123
+MOSTRAR numz
+
+MOSTRAR num
+
+numz 
+numz numz
+numz =
+num
+num num
+num =
+num = numz
+num = num
+num = 1
+num = SUm
+num = SUM numz 
+num = SUM num numz
+num = SUM num 1
+num = SUM 1 numz
+num = SUM 1 num
+num = SUM 1 1
+num = SUM 1 0
+
+num = RES numz 
+num = RES num numz
+num = RES num 1
+num = RES 1 numz
+num = RES 1 num
+num = RES 1 1
+num = RES 1 0
+
+num = MUL numz 
+num = MUL num numz
+num = MUL num 1
+num = MUL 1 numz
+num = MUL 1 num
+num = MUL 1 1
+num = MUL 1 0
+
+MOSTRAR num
+num = SUM num 4
+MOSTRAR num
+
+num = DIV numz 
+num = DIV num numz
+num = DIV num 1
+num = DIV 1 numz
+num = DIV 1 num
+num = DIV 1 1
+num = DIV 1 0
+
+MOSTRAR num
+
+LEER vara
+MOSTRAR vara
+
+num = RES num vara
